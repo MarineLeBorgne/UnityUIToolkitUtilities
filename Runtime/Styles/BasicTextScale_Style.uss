@@ -1,0 +1,115 @@
+:root {
+}
+
+.H1 {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-Bold%20SDF%201.1.asset?fileID=11400000&guid=a6d14ccd95d409d4eac98c37d1c4292d&type=2#Onest-Bold SDF 1.1");
+    font-size: 72px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    -unity-text-align: middle-left;
+}
+
+.H2 {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-Bold%20SDF%201.2.asset?fileID=11400000&guid=147f192d9c76b0c47a15bdd4609fdade&type=2#Onest-Bold SDF 1.2");
+    font-size: 52px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    -unity-text-align: middle-left;
+}
+
+.H3 {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-SemiBold%20SDF%201.2.asset?fileID=11400000&guid=1812bdac5dbea4f40959522a1218baa8&type=2#Onest-SemiBold SDF 1.2");
+    font-size: 38px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    -unity-text-align: middle-left;
+}
+
+.BigLabel {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-SemiBold%20SDF%201.3.asset?fileID=11400000&guid=eb5fdf6847deead409f4938fc779514e&type=2#Onest-SemiBold SDF 1.3");
+    font-size: 30px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    -unity-text-align: middle-left;
+}
+
+.Label {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-Medium%20SDF%201.3.asset?fileID=11400000&guid=775c84c3152971e4899e982a8705dbca&type=2#Onest-Medium SDF 1.3");
+    font-size: 20px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    -unity-text-align: middle-left;
+}
+
+.Body {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-Regular%20SDF%201.4.asset?fileID=11400000&guid=a07291322b6c11a4f91288aac11aba19&type=2#Onest-Regular SDF 1.4");
+    font-size: 24px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.Button {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-SemiBold%20SDF%201.2.asset?fileID=11400000&guid=1812bdac5dbea4f40959522a1218baa8&type=2#Onest-SemiBold SDF 1.2");
+    font-size: 24px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    -unity-text-align: middle-left;
+}
+
+.Caption {
+    -unity-font-definition: url("project://database/Assets/MPLB_UIToolkitUtilities/Ressources/Fonts/Onest/Onest-Regular%20SDF%201.3.asset?fileID=11400000&guid=f2b9dcb924c2ee342901f1f19917a77f&type=2#Onest-Regular SDF 1.3");
+    font-size: 20px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    -unity-text-align: middle-left;
+}

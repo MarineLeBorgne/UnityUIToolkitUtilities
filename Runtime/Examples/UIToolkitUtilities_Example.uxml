@@ -1,0 +1,18 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/MPLB_UIToolkitUtilities/Runtime/Styles/BasicTextScale_Style.uss?fileID=7433441132597879392&amp;guid=b93bc7d636f5a704c90445c186b02cc1&amp;type=3#BasicTextScale_Style"/>
+    <ui:VisualElement name="MainPanel" style="flex-grow: 1; flex-direction: row; margin-top: 50px; margin-right: 50px; margin-bottom: 50px; margin-left: 50px;">
+        <ui:VisualElement name="TextsExamples" style="flex-grow: 0; margin-right: 32px;">
+            <ui:Label text="H1 Title" name="H1Title" class="H1" style="margin-bottom: 32px;"/>
+            <ui:Label text="H2 TITLE" name="H2Title" class="H2" style="margin-bottom: 16px;"/>
+            <ui:Label text="H3 Title" name="H3Title" class="H3" style="margin-bottom: 8px;"/>
+            <ui:Label text="This is an example of body text on separate lines" name="Body" class="Body" style="margin-bottom: 32px;"/>
+            <ui:Label text="BUTTON" name="Button" class="Button" style="margin-bottom: 16px;"/>
+            <ui:Label text="Big Label" name="BigLabel" class="BigLabel" style="margin-bottom: 16px;"/>
+            <ui:Label text="Label" name="Label" class="Label" style="margin-bottom: 16px;"/>
+            <ui:Label text="Caption or small texte" name="Caption" class="Caption" style="margin-bottom: 16px;"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="SimpleElements" style="flex-grow: 1;">
+            <ui:Toggle label="Toggle"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
