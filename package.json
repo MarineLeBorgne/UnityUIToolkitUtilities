@@ -1,0 +1,14 @@
+{
+  "name": "com.mplb.UIToolkitUtilities",
+  "version": "1.0.0",
+  "displayName": "MPLB Unity UI Toolkit Utilities",
+  "description": "A package that provide some helpers for UI Toolkit",
+  "unity": "6000.0",
+  "author": {
+    "name": "Marine P. Le Borgne",
+    "email": "marine.p.leborgne@gmail.com",
+    "url": ""
+  },
+  "keywords": ["unity", "ui toolkit"],
+  "dependencies": {}
+}
